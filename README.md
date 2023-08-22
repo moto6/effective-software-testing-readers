@@ -6,7 +6,7 @@
 
 ## 스터디 진행 방법
 - 매주 한 챕터씩 책 읽고 자신의 생각 느낀점 등을 정리해서 issue 댓글로 남기기
-- issue 탭에 챕터별 이슈가 있습니다 [이슈탭을 봐주세요]()
+- issue 탭에 챕터별 이슈가 있습니다 [이슈탭을 봐주세요](https://github.com/moto3z/effective-software-testing-readers/issues)
 
 
 <br>
